@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E6EC6AFC-3899-40B7-A298-9C7C86252AF9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA863740-371A-45EB-BF8D-F187A5136152"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_closure/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "tapButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA863740-371A-45EB-BF8D-F187A5136152 - a7e18ce7fe6ea0a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "practice_closure.TableViewController.tapButton(__C.UIButton) -&gt; ()"
+                  moduleName = "practice_closure"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shiomiryousuke/repos/practice_closure/practice_closure/practice_closure/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "543">
+               </Location>
+               <Location
+                  uuid = "EA863740-371A-45EB-BF8D-F187A5136152 - a7e18ce7fe6ea0a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "practice_closure.TableViewController.tapButton(__C.UIButton) -&gt; ()"
+                  moduleName = "practice_closure"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shiomiryousuke/repos/practice_closure/practice_closure/practice_closure/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "617">
+               </Location>
+               <Location
+                  uuid = "EA863740-371A-45EB-BF8D-F187A5136152 - a7e18ce7fe6ea0a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "practice_closure.TableViewController.tapButton(__C.UIButton) -&gt; ()"
+                  moduleName = "practice_closure"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shiomiryousuke/repos/practice_closure/practice_closure/practice_closure/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1294">
+               </Location>
+               <Location
+                  uuid = "EA863740-371A-45EB-BF8D-F187A5136152 - a7e18ce7fe6ea0a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "practice_closure.TableViewController.tapButton(__C.UIButton) -&gt; ()"
+                  moduleName = "practice_closure"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shiomiryousuke/repos/practice_closure/practice_closure/practice_closure/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1868">
+               </Location>
+               <Location
+                  uuid = "EA863740-371A-45EB-BF8D-F187A5136152 - a7e18ce7fe6ea0a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "practice_closure.TableViewController.tapButton(__C.UIButton) -&gt; ()"
+                  moduleName = "practice_closure"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shiomiryousuke/repos/practice_closure/practice_closure/practice_closure/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "2442">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CE2A845-456B-48B1-906D-8BA13FBB44BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_closure/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "tapButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8E9A213-66E3-4E77-B423-3D0F423E0AA3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_closure/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "tapButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

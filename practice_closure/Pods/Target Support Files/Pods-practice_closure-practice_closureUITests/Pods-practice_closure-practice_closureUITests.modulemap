@@ -1,0 +1,6 @@
+framework module Pods_practice_closure_practice_closureUITests {
+  umbrella header "Pods-practice_closure-practice_closureUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
