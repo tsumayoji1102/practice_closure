@@ -1,0 +1,2 @@
+# practice_closure
+Qiitaの投稿「Closureを使って再利用可能なViewControllerを作ろう計画」で作成したアプリです。
